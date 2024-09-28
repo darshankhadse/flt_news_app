@@ -1,16 +1,13 @@
-# flt_news_app
+# Flutter News App
 
-A new Flutter project.
+A Flutter application that fetches and displays the latest news articles using the NewsData API. The app allows users to search for news articles based on specific queries and categories.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Fetch and display the latest news articles.
+- Search functionality to find articles by query.
+- Filter articles by category.
 
-A few resources to get you started if this is your first Flutter project:
+## Links
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [App APK Link](https://we.tl/t-npTac35DPU)
